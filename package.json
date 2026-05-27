@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chessdotdev/Practice.git"
+    "url": "git+https://github.com/Akali03/Practice.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/chessdotdev/Practice/issues"
+    "url": "https://github.com/Akali03/Practice/issues"
   },
-  "homepage": "https://github.com/chessdotdev/Practice#readme"
+  "homepage": "https://github.com/Akali03/Practice#readme"
 }
