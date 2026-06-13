@@ -1,3 +1,5 @@
+//while loop: Use when you don't know exactly 
+//            how many times the loop will run.
 const fruits = ["apple", "banana", "orange"];
 let numbers = [1, 2, 3, 4, 5];
 
@@ -11,4 +13,10 @@ let x = 0;
 while(numbers.length > x){
     console.log(numbers[x]);
     x++;
+}
+
+let password = "";
+
+while(password !== "secret"){
+    password = prompt("Enter password:");
 }

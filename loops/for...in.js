@@ -1,3 +1,4 @@
+//for in loop: Use for iterating over an object's property names (keys).
 const fruits = ["apple", "banana", "orange"];
 let numbers = [1, 2, 3, 4, 5];
 

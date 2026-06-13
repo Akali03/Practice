@@ -1,0 +1,5 @@
+Arrays → for...of
+Objects → for...in
+Known count → for
+Unknown count → while
+Must execute once → do...while

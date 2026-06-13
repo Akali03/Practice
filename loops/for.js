@@ -1,3 +1,5 @@
+//for loop: Use when you know how many
+//          times you want to repeat something
 const fruits = ["apple", "banana", "orange"];
 let numbers = [1, 2, 3, 4, 5];
 
