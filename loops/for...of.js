@@ -30,3 +30,25 @@ console.log(total);
 This is a common use of for...of
 because you're working directly with each item in an array.
 */
+
+const word = 'hello'
+let count = {};
+
+/*
+count["h"] = 1;
+count["e"] = 1;
+count["l"] = 2;
+count["o"] = 1;
+*/
+
+for(const w of word){
+  if(count[w]){
+    count[w]++;
+  }else{
+     count[w] = 1;
+  }
+
+
+ } 
+   
+ console.log(count);
